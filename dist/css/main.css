@@ -1,0 +1,12 @@
+.foo-bar {
+  color: #123456;
+  background: #102f4d;
+  font-size: 18px;
+  line-height: 1.5;
+  border-radius: 5px;
+}
+.item {
+  width: 150px;
+  height: 200px;
+  background: #008000;
+}
